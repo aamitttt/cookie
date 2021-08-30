@@ -1,0 +1,27 @@
+.container{
+ background-color: rgb(185, 240, 185);
+ text-align: center;
+ height: 90%;
+    
+}
+
+body{
+    background-color: skyblue;
+}
+input{
+
+    width: auto;
+    border-color: rgb(10, 10, 10);
+    border-radius: 5px;
+    height: 25px;
+}
+button{
+    width: auto;
+    height: auto;
+    font-size: 20px;
+    font-style: italic;
+    color: blue;
+}
+h1{
+    color: red;
+}
